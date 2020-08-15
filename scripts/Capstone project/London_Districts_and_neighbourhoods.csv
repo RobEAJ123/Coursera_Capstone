@@ -1,0 +1,168 @@
+Postcode ,Borough,Neighbourhood
+BR,Outer London, Bromley
+CR,Outer London, Croydon
+DA,Outer London, Dartford
+EN,Outer London, Enfield
+HA,Outer London, Harrow
+IG,Outer London, Ilford
+KT,Outer London, Kingston
+RM,Outer London, Romford
+SM,Outer London, Sutton
+TW,Outer London, Twickenham
+UB,Outer London, Uxbridge
+WD,Outer London, Watford
+W1,W [West] district," Marylebone, Mayfair, Soho"
+W2,W [West] district," Bayswater, Paddington"
+W3,W [West] district, Acton
+W4,W [West] district, Chiswick
+W5,W [West] district, Ealing
+W6,W [West] district, Hammersmith
+W7,W [West] district, Hanwell
+W8,W [West] district, Kensington
+W9,W [West] district," Maida Vale, Warwick Avenue"
+W10,W [West] district," Ladbroke Grove, North Kensington"
+W11,W [West] district," Holland Park, Notting Hill"
+W12,W [West] district, Shepherd's Bush
+W13,W [West] district, West Ealing
+W14,W [West] district, West Kensington
+SW1,SW [South West] district," Belgravia, Pimlico, Westminster"
+SW2,SW [South West] district," Brixton, Streatham Hill"
+SW3,SW [South West] district," Brompton, Chelsea"
+SW4,SW [South West] district, Clapham
+SW5,SW [South West] district, Earl's Court
+SW6,SW [South West] district," Fulham, Parson's Green"
+SW7,SW [South West] district, South Kensington
+SW8,SW [South West] district," Nine Elms, South Lambeth"
+SW9,SW [South West] district," Brixton, Stockwell"
+SW10,SW [South West] district," West Brompton, World's End"
+SW11,SW [South West] district," Battersea, Clapham Junction"
+SW12,SW [South West] district, Balham
+SW13,SW [South West] district," Barnes, Castelnau"
+SW14,SW [South West] district," East Sheen, Mortlake"
+SW15,SW [South West] district," Putney, Roehampton"
+SW16,SW [South West] district," Norbury, Streatham"
+SW17,SW [South West] district, Tooting
+SW18,SW [South West] district," Earlsfield, Wandsworth"
+SW19,SW [South West] district," Merton, Wimbledon"
+SW20,SW [South West] district," Raynes Park, South Wimbledon"
+SE1,SE [South East] district," Bermondsey, Borough, Southwark, Waterloo"
+SE2,SE [South East] district, Abbey Wood
+SE3,SE [South East] district," Blackheath, Westcombe Park"
+SE4,SE [South East] district," Brockley, Crofton Park, Honor Oak Park"
+SE5,SE [South East] district, Camberwell
+SE6,SE [South East] district," Bellingham, Catford, Hither Green"
+SE7,SE [South East] district, Charlton
+SE8,SE [South East] district, Deptford
+SE9,SE [South East] district," Eltham, Mottingham"
+SE10,SE [South East] district, Greenwich
+SE11,SE [South East] district, Lambeth
+SE12,SE [South East] district," Grove Park, Lee"
+SE13,SE [South East] district," Hither Green, Lewisham"
+SE14,SE [South East] district," New Cross, New Cross Gate"
+SE15,SE [South East] district," Nunhead, Peckham"
+SE16,SE [South East] district," Rotherhithe, South Bermondsey, Surrey Docks"
+SE17,SE [South East] district," Elephant & Castle, Walworth"
+SE18,SE [South East] district," Plumstead, Woolwich"
+SE19,SE [South East] district," Crystal Palace, Upper Norwood"
+SE20,SE [South East] district," Anerley, Penge"
+SE21,SE [South East] district, Dulwich
+SE22,SE [South East] district, East Dulwich
+SE23,SE [South East] district, Forest Hill
+SE24,SE [South East] district, Herne Hill
+SE25,SE [South East] district, South Norwood
+SE26,SE [South East] district, Sydenham
+SE27,SE [South East] district," Tulse Hill, West Norwood"
+SE28,SE [South East] district, Thamesmead
+NW1,NW [North West] district," Camden Town, Regent's Park"
+NW2,NW [North West] district," Cricklewood, Neasden"
+NW3,NW [North West] district," Hampstead, Swiss Cottage"
+NW4,NW [North West] district," Brent Cross, Hendon"
+NW5,NW [North West] district, Kentish Town
+NW6,NW [North West] district," Kilburn, Queens Park, West Hampstead"
+NW7,NW [North West] district, Mill Hill
+NW8,NW [North West] district, St John's Wood
+NW9,NW [North West] district," Colindale, Kingsbury"
+NW10,NW [North West] district," Harlesden, Kensal Green, Willesden"
+NW11,NW [North West] district," Golders Green, Hampstead Garden Suburb"
+N1,N [Northern] district," Barnsbury, Canonbury, Islington"
+N2,N [Northern] district, East Finchley
+N3,N [Northern] district, Finchley Central
+N4,N [Northern] district," Finsbury Park, Manor House"
+N5,N [Northern] district, Highbury
+N6,N [Northern] district, Highgate
+N7,N [Northern] district, Holloway
+N8,N [Northern] district," Crouch End, Hornsey"
+N9,N [Northern] district, Lower Edmonton
+N10,N [Northern] district, Muswell Hill
+N11,N [Northern] district," Friern Barnet, New Southgate"
+N12,N [Northern] district," North Finchley, Woodside Park"
+N13,N [Northern] district, Palmers Green
+N14,N [Northern] district, Southgate
+N15,N [Northern] district, Seven Sisters
+N16,N [Northern] district," Stamford Hill, Stoke Newington"
+N17,N [Northern] district, Tottenham
+N18,N [Northern] district, Upper Edmonton
+N19,N [Northern] district," Archway, Tufnell Park"
+N20,N [Northern] district," Totteridge, Whetstone"
+N21,N [Northern] district, Winchmore Hill
+N22,N [Northern] district," Alexandra Palace, Wood Green"
+E1,E [Eastern] district," Mile End, Stepney, Whitechapel"
+E2,E [Eastern] district," Bethnal Green, Shoreditch"
+E3,E [Eastern] district," Bow, Bromley-by-bow"
+E4,E [Eastern] district," Chingford, Highams Park"
+E5,E [Eastern] district, Clapton
+E6,E [Eastern] district," East Ham, Beckton"
+E7,E [Eastern] district," Forest Gate, Upton Park"
+E8,E [Eastern] district," Hackney, Dalston"
+E9,E [Eastern] district," Hackney, Homerton"
+E10,E [Eastern] district, Leyton
+E11,E [Eastern] district, Leytonstone
+E12,E [Eastern] district, Manor Park
+E13,E [Eastern] district, Plaistow
+E14,E [Eastern] district," Isle of Dogs, Millwall, Poplar"
+E15,E [Eastern] district," Stratford, West Ham"
+E16,E [Eastern] district," Canning Town, North Woolwich"
+E17,E [Eastern] district, Walthamstow
+E18,E [Eastern] district, South Woodford
+E20,E [Eastern] district," Olympic Park, Stratford"
+WC1A,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC1B,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC1E,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC1H,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC1N,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC1R,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC1V,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC1X,WC [West Central] district,"Bloomsbury, Gray's Inn"
+WC2A,WC [West Central] district,"Covent Garden, Holborn, Strand"
+WC2B,WC [West Central] district,"Covent Garden, Holborn, Strand"
+WC2E,WC [West Central] district,"Covent Garden, Holborn, Strand"
+WC2H,WC [West Central] district,"Covent Garden, Holborn, Strand"
+WC2N,WC [West Central] district,"Covent Garden, Holborn, Strand"
+WC2R,WC [West Central] district,"Covent Garden, Holborn, Strand"
+EC4A,EC [East Central] district,"Fleet Street, St Paul's"
+EC4M,EC [East Central] district,"Fleet Street, St Paul's"
+EC4N,EC [East Central] district,"Fleet Street, St Paul's"
+EC4P,EC [East Central] district,"Fleet Street, St Paul's"
+EC4R,EC [East Central] district,"Fleet Street, St Paul's"
+EC4V,EC [East Central] district,"Fleet Street, St Paul's"
+EC4Y,EC [East Central] district,"Fleet Street, St Paul's"
+EC3A,EC [East Central] district,"Aldgate, Monument, Tower Hill"
+EC3M,EC [East Central] district,"Aldgate, Monument, Tower Hill"
+EC3N,EC [East Central] district,"Aldgate, Monument, Tower Hill"
+EC3P,EC [East Central] district,"Aldgate, Monument, Tower Hill"
+EC3R,EC [East Central] district,"Aldgate, Monument, Tower Hill"
+EC3V,EC [East Central] district,"Aldgate, Monument, Tower Hill"
+EC2A,EC [East Central] district,"Moorgate, Liverpool Street"
+EC2M,EC [East Central] district,"Moorgate, Liverpool Street"
+EC2N,EC [East Central] district,"Moorgate, Liverpool Street"
+EC2P,EC [East Central] district,"Moorgate, Liverpool Street"
+EC2R,EC [East Central] district,"Moorgate, Liverpool Street"
+EC2V,EC [East Central] district,"Moorgate, Liverpool Street"
+EC2Y,EC [East Central] district,"Moorgate, Liverpool Street"
+EC1A,EC [East Central] district,"Barbican, Clerkenwell,Finsbury"
+EC1M,EC [East Central] district,"Barbican, Clerkenwell,Finsbury"
+EC1N,EC [East Central] district,"Barbican, Clerkenwell,Finsbury"
+EC1P,EC [East Central] district,"Barbican, Clerkenwell,Finsbury"
+EC1R,EC [East Central] district,"Barbican, Clerkenwell,Finsbury"
+EC1V,EC [East Central] district,"Barbican, Clerkenwell,Finsbury"
+EC1Y,EC [East Central] district,"Barbican, Clerkenwell,Finsbury"
